@@ -1,24 +1,10 @@
-# README
+  User 
+  username string 
+  membership string 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  created_at datetime 
+  id 
+  updated_at datatime
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  date_joined date datetime string 
+  bronze silver gold 
